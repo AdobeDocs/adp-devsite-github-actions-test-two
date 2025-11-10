@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /github-actions-test-two/
 
 - pages:
     - [Analytics](index.md)
