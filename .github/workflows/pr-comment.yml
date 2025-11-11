@@ -2,7 +2,7 @@
 name: PR Comment
 on:
   workflow_run:
-    workflows: ["PR validation"]
+    workflows: ["PR Validation"]
     types:
       - completed
 
