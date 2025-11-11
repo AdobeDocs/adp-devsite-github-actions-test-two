@@ -7,7 +7,7 @@ contributors:
 
 <HeroSimple slots="heading, text"/>
 
-# Analytics API testing pr
+# Analytics API testing pr beta
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. delta
 
