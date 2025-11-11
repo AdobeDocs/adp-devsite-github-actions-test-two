@@ -1,5 +1,5 @@
 ---
-name: Validate pull request
+name: Validate Pull Request
 on:
   workflow_call:
     inputs:
