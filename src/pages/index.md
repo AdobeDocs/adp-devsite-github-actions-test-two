@@ -9,7 +9,7 @@ contributors:
 
 # Analytics API testing pr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. delta
 
 <Resources slots="heading, links"/>
 
