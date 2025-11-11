@@ -5,7 +5,7 @@ description: This is the support page of Analytics
 
 <HeroSimple slots="heading, text" background="rgb(19, 93, 183)"/>
 
-# Support
+# Support delta
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. 
 
